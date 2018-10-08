@@ -1,5 +1,5 @@
 #home {
-  background-color: $body-bg;
+  background-color: gray;
   color: white;
   height: 100vh;
   display: flex;
@@ -10,7 +10,7 @@
     margin-top: 1.5em;
   }
   a {
-    color: blue;
+    color: red;
     font-weight: bold;
     font-size: 16px;
   }
